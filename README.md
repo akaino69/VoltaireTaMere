@@ -1,5 +1,5 @@
 ------------------------------------
-SITE: https://sites.google.com/view/voltairetamere/accueil
+SITE: https://sites.google.com/view/voltairetamere/voltairetamere
 ------------------------------------
 FAQ: https://sites.google.com/view/voltairetamere/faq
 ------------------------------------
