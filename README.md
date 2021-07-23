@@ -13,7 +13,7 @@ DEMO: https://youtu.be/plQ6ko-PKJc
 
 INSTALLATION:
 Téléchargé simplement l'installateur ou téléchargé tous les fichiers (Executable non compris sur GitHub) et placés ensemble dans un même répertoire.
-liens de l'installateur (trop lourd pour GitHub): https://sites.google.com/view/voltairetamere/accueil
+liens de l'installateur (trop lourd pour GitHub): https://sites.google.com/view/voltairetamere/voltairetamere
 
 ATTENTION:
 Vous avez besoin de Google Chrome, Firefox ou Opera pour que le bot fonctionne ( mais bon t'en as pas un des 3 t'abuse la)!
